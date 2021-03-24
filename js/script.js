@@ -19,3 +19,8 @@ cognomi = cognomi.sort();
 console.log("lista ordinata alfabeticamente: ", cognomi);
 
 // trovo la posizione del cognome inserito partendo da 1
+
+for (var i = 1; i < cognomi.length; i++) {
+    
+
+}
